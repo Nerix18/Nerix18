@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nerix18
-- 👀 I’m interested in Gaming,IT,Sport 
+- 👀 I’m interested in Gaming, IT, Sport, Fashion 
 - 🌱 I’m currently learning Frontend (HTML,CSS,JAVASCRIPT etc..)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
